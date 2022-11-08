@@ -16,5 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi there, I am Subhashis 👋</h1><br>
 I am MCA 1st year student at Utkal University,Odisha,India<br>
+- 🔭 My Skills are - Node Js,React Js,Bootstrap,MongoDB,PHP,MYSQL
 - 🌱 I’m currently learning <strong>MERN Stack </strong><br>
+- 👯 I’m looking to collaborate on Backend development
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/subhashis-patbandha-11859122b/" target="_blank">My LinkedIn Profile</a>
