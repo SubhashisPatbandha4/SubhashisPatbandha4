@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I am Subhashis 👋</h1>
-I am MCA 1st year student at Utkal University,Odisha,India
-- 🌱 I’m currently learning <strong>MERN Stack </strong>
+<h1 align="center">Hi there, I am Subhashis 👋</h1><br>
+I am MCA 1st year student at Utkal University,Odisha,India<br>
+- 🌱 I’m currently learning <strong>MERN Stack </strong><br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/subhashis-patbandha-11859122b/" target="_blank">My LinkedIn Profile</a>
